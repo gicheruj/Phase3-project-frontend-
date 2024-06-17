@@ -1,0 +1,18 @@
+#form{
+    background-color: pink;
+    width: 1200px;
+    height: 900px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#form .form-control{
+    margin: 40px;
+    font-size: large;
+}
+.AboutUs{
+    font-size: larger; 
+}
+.mission{
+    font-size: larger;
+}
